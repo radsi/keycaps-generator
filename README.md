@@ -2,4 +2,8 @@
 
 Simple tool to create custom 3D keycaps with icons, ready for 3D printing.
 
-![preview](https://cdn.discordapp.com/attachments/1054836334130372670/1506410962142494840/image.png?ex=6a0e2a09&is=6a0cd889&hm=9087673bcaf23b77b90c6c5f1fb4fa6ebefd5756cab1855af1b1c9ae96231c7b&)
+Its made with Three.js and react, with an implementation of iconify to be able to load icons without downloading them.
+
+To run a local instance clone this repo, use `npm install` and `npm run dev`
+
+![preview](https://cdn.hackclub.com/019e456a-d4c2-7e72-89eb-721494e16516/image.png)
